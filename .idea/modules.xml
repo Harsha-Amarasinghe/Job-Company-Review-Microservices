@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../companyms/companyms/companyms.iml" filepath="$PROJECT_DIR$/../companyms/companyms/companyms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../configServer/configServer/configServer.iml" filepath="$PROJECT_DIR$/../configServer/configServer/configServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gateway/gateway/gateway.iml" filepath="$PROJECT_DIR$/../gateway/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jobms/jobms.iml" filepath="$PROJECT_DIR$/jobms/jobms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../reviewms/reviewms/reviewms.iml" filepath="$PROJECT_DIR$/../reviewms/reviewms/reviewms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service-reg/service-reg/service-reg.iml" filepath="$PROJECT_DIR$/../service-reg/service-reg/service-reg.iml" />
+    </modules>
+  </component>
+</project>
